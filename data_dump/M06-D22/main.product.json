@@ -1,0 +1,218 @@
+[
+{
+   "model": "main.product",
+   "pk": 2,
+   "fields": {
+      "category": 4,
+      "name": "tor shop",
+      "slug": "onionshop",
+      "description": " this is test product by vendor",
+      "price": "1",
+      "available": "1",
+      "stock": 761,
+      "created_at": "2019-01-12T00:00:00Z",
+      "updated_at": "2019-01-13T00:00:00Z",
+      "image": "products/2019/01/12/Download.jpeg",
+      "country": "",
+      "productOwnerID": 1
+   }
+},
+{
+   "model": "main.product",
+   "pk": 3,
+   "fields": {
+      "category": 4,
+      "name": "Test Product by vendor",
+      "slug": "testVendorProduct",
+      "description": "This is a test product by vendor.",
+      "price": "1",
+      "available": "1",
+      "stock": 90,
+      "created_at": "2019-03-18T00:00:00Z",
+      "updated_at": "2019-03-18T00:00:00Z",
+      "image": "",
+      "country": "",
+      "productOwnerID": 1
+   }
+},
+{
+   "model": "main.product",
+   "pk": 4,
+   "fields": {
+      "category": 4,
+      "name": "Test Product by vendor",
+      "slug": "testVendorProduct",
+      "description": "This is a test product by vendor.",
+      "price": "2",
+      "available": "1",
+      "stock": 77,
+      "created_at": "2019-03-18T00:00:00Z",
+      "updated_at": "2019-03-18T00:00:00Z",
+      "image": "products/2019/01/12/Download.jpeg",
+      "country": "",
+      "productOwnerID": 4
+   }
+},
+{
+   "model": "main.product",
+   "pk": 5,
+   "fields": {
+      "category": 4,
+      "name": "Test Product by vendor",
+      "slug": "testVendorProduct",
+      "description": "This is a test product by vendor.",
+      "price": "2",
+      "available": "1",
+      "stock": 100,
+      "created_at": "2019-03-18T00:00:00Z",
+      "updated_at": "2019-03-18T00:00:00Z",
+      "image": "products/2019/01/12/Download.jpeg",
+      "country": "",
+      "productOwnerID": 4
+   }
+},
+{
+   "model": "main.product",
+   "pk": 6,
+   "fields": {
+      "category": 5,
+      "name": "PRODUCT-2 REVENUE",
+      "slug": "testVendorProduct",
+      "description": "wow its raining out side",
+      "price": "3",
+      "available": "1",
+      "stock": 45,
+      "created_at": "2019-03-18T00:00:00Z",
+      "updated_at": "2019-03-18T00:00:00Z",
+      "image": "products/2019/01/12/Download.jpeg",
+      "country": "",
+      "productOwnerID": 4
+   }
+},
+{
+   "model": "main.product",
+   "pk": 7,
+   "fields": {
+      "category": 5,
+      "name": "test product1",
+      "slug": "testVendorProduct",
+      "description": "test product1\r\nexample",
+      "price": "222",
+      "available": "0",
+      "stock": 100,
+      "created_at": "2019-04-12T00:00:00Z",
+      "updated_at": "2019-04-12T00:00:00Z",
+      "image": "",
+      "country": "AT",
+      "productOwnerID": 1
+   }
+},
+{
+   "model": "main.product",
+   "pk": 8,
+   "fields": {
+      "category": 5,
+      "name": "test product1",
+      "slug": "test-product-1",
+      "description": "test product for updating function",
+      "price": "3",
+      "available": "1",
+      "stock": 57,
+      "created_at": "2019-04-12T00:00:00Z",
+      "updated_at": "2019-04-12T00:00:00Z",
+      "image": "",
+      "country": "AU",
+      "productOwnerID": 1
+   }
+},
+{
+   "model": "main.product",
+   "pk": 9,
+   "fields": {
+      "category": 5,
+      "name": "test product1",
+      "slug": "test-product-1",
+      "description": "test product1 for slug",
+      "price": "1",
+      "available": "0",
+      "stock": 50,
+      "created_at": "2019-04-16T00:00:00Z",
+      "updated_at": "2019-04-16T00:00:00Z",
+      "image": "",
+      "country": "AU",
+      "productOwnerID": 1
+   }
+},
+{
+   "model": "main.product",
+   "pk": 10,
+   "fields": {
+      "category": 5,
+      "name": "test product1",
+      "slug": "test-product-1",
+      "description": "test product1 for slug",
+      "price": "1",
+      "available": "0",
+      "stock": 50,
+      "created_at": "2019-04-16T00:00:00Z",
+      "updated_at": "2019-04-16T00:00:00Z",
+      "image": "",
+      "country": "AU",
+      "productOwnerID": 1
+   }
+},
+{
+   "model": "main.product",
+   "pk": 11,
+   "fields": {
+      "category": 4,
+      "name": "huylee",
+      "slug": "Trf",
+      "description": "12312",
+      "price": "12",
+      "available": "1",
+      "stock": 12,
+      "created_at": "2019-04-21T00:00:00Z",
+      "updated_at": "2019-04-21T00:00:00Z",
+      "image": "",
+      "country": "VN",
+      "productOwnerID": 1
+   }
+},
+{
+   "model": "main.product",
+   "pk": 12,
+   "fields": {
+      "category": 6,
+      "name": "Brunswick Sable Pharmacy",
+      "slug": "vv",
+      "description": "vv",
+      "price": "66",
+      "available": "1",
+      "stock": 994,
+      "created_at": "2019-04-21T00:00:00Z",
+      "updated_at": "2019-04-21T00:00:00Z",
+      "image": "",
+      "country": "VN",
+      "productOwnerID": 1
+   }
+},
+{
+   "model": "main.product",
+   "pk": 14,
+   "fields": {
+      "category": 5,
+      "name": "DrugMilk123123",
+      "slug": "Test",
+      "description": "DrugMilkDrugMilkDrugMilkDrugMilk",
+      "price": "2",
+      "available": "1",
+      "stock": 100,
+      "created_at": "2019-04-28T00:00:00Z",
+      "updated_at": "2019-04-28T00:00:00Z",
+      "image": "",
+      "country": "AF",
+      "productOwnerID": 1
+   }
+}
+]

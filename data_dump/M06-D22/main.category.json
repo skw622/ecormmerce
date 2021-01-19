@@ -1,0 +1,42 @@
+[
+{
+   "model": "main.category",
+   "pk": 4,
+   "fields": {
+      "name": "onionshop",
+      "slug": "onionshop",
+      "created_at": "2019-01-12T00:00:00Z",
+      "updated_at": "2019-01-12T00:00:00Z"
+   }
+},
+{
+   "model": "main.category",
+   "pk": 5,
+   "fields": {
+      "name": "category 1",
+      "slug": "category_1",
+      "created_at": "2019-02-03T00:00:00Z",
+      "updated_at": "2019-02-03T00:00:00Z"
+   }
+},
+{
+   "model": "main.category",
+   "pk": 6,
+   "fields": {
+      "name": "category 2",
+      "slug": "category_2",
+      "created_at": "2019-02-03T00:00:00Z",
+      "updated_at": "2019-02-03T00:00:00Z"
+   }
+},
+{
+   "model": "main.category",
+   "pk": 7,
+   "fields": {
+      "name": "category 3",
+      "slug": "category_3",
+      "created_at": "2019-02-03T00:00:00Z",
+      "updated_at": "2019-02-03T00:00:00Z"
+   }
+}
+]

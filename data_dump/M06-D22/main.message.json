@@ -1,0 +1,198 @@
+[
+{
+   "model": "main.message",
+   "pk": 2,
+   "fields": {
+      "sender": 2,
+      "receiver": 1,
+      "content": "test message",
+      "created_at": "2019-04-09T00:00:00Z",
+      "updated_at": "2019-04-09T00:00:00Z",
+      "check": "0",
+      "sender_removed": "0",
+      "receiver_removed": "0"
+   }
+},
+{
+   "model": "main.message",
+   "pk": 3,
+   "fields": {
+      "sender": 1,
+      "receiver": 3,
+      "content": "test message",
+      "created_at": "2019-04-09T00:00:00Z",
+      "updated_at": "2019-04-09T00:00:00Z",
+      "check": "0",
+      "sender_removed": "0",
+      "receiver_removed": "0"
+   }
+},
+{
+   "model": "main.message",
+   "pk": 5,
+   "fields": {
+      "sender": 1,
+      "receiver": 1,
+      "content": "Your payment are confirmed. Thank you.",
+      "created_at": "2019-04-09T00:00:00Z",
+      "updated_at": "2019-04-09T00:00:00Z",
+      "check": "0",
+      "sender_removed": "0",
+      "receiver_removed": "0"
+   }
+},
+{
+   "model": "main.message",
+   "pk": 6,
+   "fields": {
+      "sender": 1,
+      "receiver": 1,
+      "content": "Your payment are confirmed. Thank you.",
+      "created_at": "2019-04-09T00:00:00Z",
+      "updated_at": "2019-04-09T00:00:00Z",
+      "check": "0",
+      "sender_removed": "0",
+      "receiver_removed": "0"
+   }
+},
+{
+   "model": "main.message",
+   "pk": 19,
+   "fields": {
+      "sender": 1,
+      "receiver": 1,
+      "content": "Sorry but your shopping cart are canceled by vendor. Please send BTC refund address to Site manager.",
+      "created_at": "2019-04-10T00:00:00Z",
+      "updated_at": "2019-04-10T00:00:00Z",
+      "check": "0",
+      "sender_removed": "0",
+      "receiver_removed": "0"
+   }
+},
+{
+   "model": "main.message",
+   "pk": 20,
+   "fields": {
+      "sender": 1,
+      "receiver": 1,
+      "content": "Sorry but your shopping cart are canceled by vendor. Please send BTC refund address to Site manager.",
+      "created_at": "2019-04-10T00:00:00Z",
+      "updated_at": "2019-04-10T00:00:00Z",
+      "check": "0",
+      "sender_removed": "0",
+      "receiver_removed": "0"
+   }
+},
+{
+   "model": "main.message",
+   "pk": 21,
+   "fields": {
+      "sender": 1,
+      "receiver": 1,
+      "content": "Sorry but your shopping cart are canceled by vendor. Please send BTC refund address to Site manager.",
+      "created_at": "2019-04-10T00:00:00Z",
+      "updated_at": "2019-04-10T00:00:00Z",
+      "check": "0",
+      "sender_removed": "0",
+      "receiver_removed": "0"
+   }
+},
+{
+   "model": "main.message",
+   "pk": 22,
+   "fields": {
+      "sender": 1,
+      "receiver": 1,
+      "content": "Your payment are confirmed. Thank you.",
+      "created_at": "2019-04-11T00:00:00Z",
+      "updated_at": "2019-04-11T00:00:00Z",
+      "check": "0",
+      "sender_removed": "0",
+      "receiver_removed": "0"
+   }
+},
+{
+   "model": "main.message",
+   "pk": 23,
+   "fields": {
+      "sender": 1,
+      "receiver": 1,
+      "content": "Your payment are confirmed. Thank you.",
+      "created_at": "2019-04-11T00:00:00Z",
+      "updated_at": "2019-04-11T00:00:00Z",
+      "check": "0",
+      "sender_removed": "0",
+      "receiver_removed": "0"
+   }
+},
+{
+   "model": "main.message",
+   "pk": 24,
+   "fields": {
+      "sender": 1,
+      "receiver": 1,
+      "content": "Your payment are confirmed. Thank you.",
+      "created_at": "2019-04-11T00:00:00Z",
+      "updated_at": "2019-04-11T00:00:00Z",
+      "check": "0",
+      "sender_removed": "0",
+      "receiver_removed": "0"
+   }
+},
+{
+   "model": "main.message",
+   "pk": 25,
+   "fields": {
+      "sender": 1,
+      "receiver": 1,
+      "content": "Order are completed by customer.",
+      "created_at": "2019-04-11T00:00:00Z",
+      "updated_at": "2019-04-11T00:00:00Z",
+      "check": "0",
+      "sender_removed": "0",
+      "receiver_removed": "0"
+   }
+},
+{
+   "model": "main.message",
+   "pk": 26,
+   "fields": {
+      "sender": 1,
+      "receiver": 1,
+      "content": "Customer require order to dispute. To dispute order can be approved by the staff. Please contact with staff.",
+      "created_at": "2019-04-11T00:00:00Z",
+      "updated_at": "2019-04-11T00:00:00Z",
+      "check": "0",
+      "sender_removed": "0",
+      "receiver_removed": "0"
+   }
+},
+{
+   "model": "main.message",
+   "pk": 27,
+   "fields": {
+      "sender": 1,
+      "receiver": 1,
+      "content": "Your shipping product are deleted by vendor so your shipping are cancelled. Please contact staff for refunding your payment.",
+      "created_at": "2019-04-16T00:00:00Z",
+      "updated_at": "2019-04-16T00:00:00Z",
+      "check": "0",
+      "sender_removed": "1",
+      "receiver_removed": "0"
+   }
+},
+{
+   "model": "main.message",
+   "pk": 28,
+   "fields": {
+      "sender": 1,
+      "receiver": 19,
+      "content": "Hi Hello",
+      "created_at": "2019-04-28T00:00:00Z",
+      "updated_at": "2019-04-28T00:00:00Z",
+      "check": "0",
+      "sender_removed": "1",
+      "receiver_removed": "1"
+   }
+}
+]

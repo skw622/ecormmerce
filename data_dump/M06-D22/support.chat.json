@@ -1,0 +1,32 @@
+[
+{
+   "model": "support.chat",
+   "pk": 1,
+   "fields": {
+      "name": 3,
+      "read": "0",
+      "started": "2019-02-02T00:00:00Z",
+      "ended": null
+   }
+},
+{
+   "model": "support.chat",
+   "pk": 2,
+   "fields": {
+      "name": 1,
+      "read": "0",
+      "started": "2019-02-03T00:00:00Z",
+      "ended": null
+   }
+},
+{
+   "model": "support.chat",
+   "pk": 3,
+   "fields": {
+      "name": 4,
+      "read": "0",
+      "started": "2019-03-06T00:00:00Z",
+      "ended": null
+   }
+}
+]

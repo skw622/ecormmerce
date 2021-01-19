@@ -1,0 +1,24 @@
+[
+{
+   "model": "support.chatmessage",
+   "pk": 1,
+   "fields": {
+      "chat": 2,
+      "name": 1,
+      "admin": "0",
+      "message": "hi",
+      "sent": "2019-02-03T00:00:00Z"
+   }
+},
+{
+   "model": "support.chatmessage",
+   "pk": 2,
+   "fields": {
+      "chat": 2,
+      "name": 1,
+      "admin": "0",
+      "message": "hh\u00e4",
+      "sent": "2019-02-03T00:00:00Z"
+   }
+}
+]
